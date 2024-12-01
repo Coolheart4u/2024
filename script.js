@@ -1,4 +1,4 @@
-const message = "Happy Compliant Year 2024 !";
+const message = "Happy New Year 2025 !";
 
 !function() {
     "use strict";
